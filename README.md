@@ -3,11 +3,11 @@ some mobus samples for ESP8266
 
 some pic of my setup and wiring:
 
-(https://github.com/dennings/modbus/blob/master/20211003_140946208_iOS%20(Medium).jpg)
+(https://github.com/dennings/modbus/blob/main/20211003_140946208_iOS%20(Medium).jpg)
 
-!(https://github.com/dennings/modbus/blob/master/20211003_140946208_iOS%20(Medium).jpg)
+!(https://github.com/dennings/modbus/blob/main/20211003_140946208_iOS%20(Medium).jpg)
 
-![Portada](https://github.com/dennings/modbus/blob/master/20211003_140946208_iOS%20(Medium).jpg)
+![Portada](https://github.com/dennings/modbus/blob/main/20211003_140946208_iOS%20(Medium).jpg)
 
 
 
